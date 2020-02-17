@@ -1,0 +1,4 @@
+{
+    "status": "success",
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VybmFtZSI6ImFkbWluIiwiZGF0ZXRpbWUiOiIyMDE5LTExLTE5IDA4OjI2OjM3In0.hTfUlZ5MWog0vrjPbvAjWgA3ZJnnIlP1KXx_B-FulsY"
+}
